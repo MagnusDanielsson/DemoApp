@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{054CEBBF-B361-4E1C-B5B1-6B9E4A7697C5}|DemoApp.vcxproj|C:\\Users\\Magnus\\source\\repos\\DemoApp\\DemoApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{054CEBBF-B361-4E1C-B5B1-6B9E4A7697C5}|DemoApp.vcxproj|solutionrelative:DemoApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054CEBBF-B361-4E1C-B5B1-6B9E4A7697C5}|DemoApp.vcxproj|C:\\Users\\Magnus\\source\\repos\\DemoApp\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{054CEBBF-B361-4E1C-B5B1-6B9E4A7697C5}|DemoApp.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054CEBBF-B361-4E1C-B5B1-6B9E4A7697C5}|DemoApp.vcxproj|C:\\Users\\Magnus\\source\\repos\\DemoApp\\DemoApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{054CEBBF-B361-4E1C-B5B1-6B9E4A7697C5}|DemoApp.vcxproj|solutionrelative:DemoApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoApp.h",
+              "DocumentMoniker": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\DemoApp.h",
+              "RelativeDocumentMoniker": "DemoApp.h",
+              "ToolTip": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\DemoApp.h",
+              "RelativeToolTip": "DemoApp.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-17T15:34:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T15:34:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\DemoApp.cpp",
+              "RelativeDocumentMoniker": "DemoApp.cpp",
+              "ToolTip": "C:\\Users\\Magnus\\source\\repos\\DemoApp\\DemoApp.cpp",
+              "RelativeToolTip": "DemoApp.cpp",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAKUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T15:33:24.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
